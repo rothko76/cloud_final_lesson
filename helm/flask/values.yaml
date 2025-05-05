@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: rothko281177/flask-ai-app
-  tag: latest
+  tag: 1cbaf83d1e2a7e93f62778600839a513ccd547e8
   pullPolicy: Always
 
 service:
